@@ -6,6 +6,7 @@ public class Exercise1 {
 		float num1=Float.parseFloat(args[0]);
 		float square=num1*num1;
 		System.out.println(square);
+		System.out.println(square*square);
 	}
 
 }
